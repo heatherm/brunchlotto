@@ -10,7 +10,7 @@
             [hiccup.page :refer [html5]]))
 
 (defroutes app-routes
-  (GET "/" [] "Hello World")
+  (GET "/" [] "Brunching with gas")
   (route/not-found "Not Found"))
 
 (def app
