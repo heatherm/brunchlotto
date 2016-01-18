@@ -1,5 +1,4 @@
 # brunchlotto
-
 ## how to work:
 
 1. install [leiningen](http://leiningen.org/)
